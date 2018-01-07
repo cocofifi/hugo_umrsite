@@ -1,0 +1,12 @@
+baseURL = "http://umr3525.cnrs.fr/"
+languageCode = "en-us"
+title = "CNRS UMR3525"
+theme="zen"
+canonifyurls=true
+
+[params]
+  logo = "/images/cnrs100.jpg"
+
+[taxonomies]
+  tag = ""
+  category = ""
