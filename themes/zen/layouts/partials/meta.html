@@ -1,0 +1,4 @@
+{{ .Hugo.Generator }}
+{{ with $.Param "contact" }}<meta name="contact" content="{{ . }}">{{ end }}
+<link rel="canonical" href="{{ .Permalink }}">
+<link rel="shortcut icon" href="{{ "/favicon.png" | relURL }}">
