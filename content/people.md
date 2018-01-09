@@ -14,12 +14,12 @@ BOCHET Pascal section 22
 
 CHATRE Laurent Arnaud section 22
 
-[FRANCESCONI Stefania](mailto:stefania.francesconi@pasteur.fr) section
+FRANCESCONI Stefania section
 21
 
 FROMONT RACINE Micheline section 21
 
-[GANGLOFF Serge](mailto:serge.gangloff@pasteur.fr) section 21
+GANGLOFF Serge section 21
 
 JACQUIER Alain section 21
 
@@ -31,8 +31,7 @@ TOUCHON Marie section 21
 
 **Chercheurs non CNRS :**
 
-[ARCANGIOLI Benoit](mailto:benoit.arcangioli@pasteur.fr) INSTITUT
-PASTEUR section 21
+ARCANGIOLI Benoit INSTITUT PASTEUR section 21
 
 BAHAROGLU Zeynep INSTITUT PASTEUR section 22
 
@@ -64,7 +63,7 @@ SAVEANU Cosmin INSTITUT PASTEUR section 21
 
 **ITA CNRS :**
 
-[DENIS Claire](mailto:claire.denis@pasteur.fr)
+DENIS Claire
 
 HULLO Marie-Francois
 
